@@ -1,0 +1,7 @@
+site_name: The Detector Lab
+theme: windmill
+nav:
+    - Home: docs/index.md
+    - Getting Started: docs/getting_started.md
+    - Projects: docs/projects.md
+    - People: docs/people.md
